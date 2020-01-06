@@ -1,0 +1,24 @@
+input {
+	box-sizing: border-box;
+	font-size: 13px;
+	vertical-align: top;
+	width:150px;
+}
+
+
+.search {
+	font-size: 18px;
+	border: 1px solid darken(white, 30%);
+	border-radius: 20px 0 0 20px;
+}
+
+.submit {
+	cursor: pointer;
+	border: none;
+	background-image: url('img/images.png') no-repeat;
+	background-size: 35px 35px;
+	border-radius: 0 20px 20px 0;
+	display: inline-block;
+	width: 38px;
+	height: 30px;
+}

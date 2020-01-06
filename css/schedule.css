@@ -1,0 +1,38 @@
+.card-spacing {
+	margin-top: 0vh;
+	margin-bottom: 8vh;
+
+}
+.card-img-bottom {
+    width: 22%;
+    height: 2cm;
+}
+.match {
+	margin-left: 88mm; 
+	margin-bottom: 0vh;
+	color: #FFF;
+
+}
+.details {
+	margin-top: 2vh;
+	text-align: left;
+	color: blue;
+}
+
+#matchno {
+	margin-top: 6vh;
+}
+
+.add
+{
+		  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.7); /* Black w/opacity/see-through */
+  margin:50px;
+  color:blue;
+}
+
+.add2
+{
+	color:white;
+}
+
